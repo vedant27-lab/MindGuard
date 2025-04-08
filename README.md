@@ -7,9 +7,8 @@
 </p>
 
 <h2>🎯 Features</h2>
-<p>
-- Detects multiple emotions from input text
-- Displays top 3 predicted emotions with probabilities
-- Interactive charts (toggle between bar and pie)
-- Clean dark UI with responsive layout
-- Built with Flask and Chart.js</p>
+<p>- Detects multiple emotions from input text</p>
+<p>- Displays top 3 predicted emotions with probabilities</p>
+<p>- Interactive charts (toggle between bar and pie)</p>
+<p>- Clean dark UI with responsive layout</p>
+<p>- Built with Flask and Chart.js</p>
