@@ -12,3 +12,23 @@
 <p>- Interactive charts (toggle between bar and pie)</p>
 <p>- Clean dark UI with responsive layout</p>
 <p>- Built with Flask and Chart.js</p>
+
+💡 Use Cases
+Journaling tools to track emotional trends
+
+Mental wellness check-ins
+
+Educational purposes to demonstrate NLP and emotion classification
+
+Chatbots and virtual assistants to better understand user mood
+
+🛠️ Technologies Used
+Python
+
+Flask
+
+TensorFlow / Keras
+
+NLP (Tokenizer + padded sequences)
+
+Chart.js (for emotion visualization)
